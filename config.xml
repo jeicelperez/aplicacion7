@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
  <widget xmlns = "http://www.w3.org/ns/widgets"
    xmlns:gap = "http://phonegap.com/ns/1.0"
-   example2 = "com.phonegap.example2"
+   example7 = "com.phonegap.example7"
    versionCode = "10"
    version ="1.0.0">
    
  <!--versioncode is optional and android only -->
  
- <name>aplicacion dos información semana santa</name>
+ <name>aplicacion siete batalla de Puebla</name>
  
  <description>
-    aplicación sobre la información de Semana Santa
+    batalla de puebla
  </description>
  
  <preference name="phonegap-version" value="3.1.0"/>
@@ -26,5 +26,5 @@
  
  <!--colocar icono app -->
  
- <icon src ="res/android/mdpii.png"/>
+ <icon src ="res/android/mdpi.png"/>
  </widget>
